@@ -1,0 +1,8 @@
+.hero-banner {
+    background-image: url('../img/hero-bg.jpg'); /* Usa la imagen sin texto incrustado */
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
