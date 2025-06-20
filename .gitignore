@@ -1,0 +1,24 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales o de respaldo
+*.log
+*.tmp
+*.bak
+*.swp
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# node_modules (por si más adelante usas npm)
+node_modules/
+
+# Carpeta de construcción
+dist/
+build/
+
+# Archivos sensibles
+.env
